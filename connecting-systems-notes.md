@@ -68,11 +68,9 @@ Common languages on client side (WWW): CSS, HTML, JavaScript.
 
 ### HTTP Methods
 
-FORMAT:
-
-- [Name] ([Safe(Y/N)] [Idempotent(Y/N)] [Cacheable(Y/N/Conditional)]): Description
-
 The only methods that servers are required to support are GET and HEAD.
+
+> [Name] ([Safe(Y/N)] [Idempotent(Y/N)] [Cacheable(Y/N/Conditional)]): Description
 
 - GET (YYY): requests a representation of the specified resource (shouldn't containe request content).
 - HEAD (YYY): asks for reponse identical to GET but without a response body.
