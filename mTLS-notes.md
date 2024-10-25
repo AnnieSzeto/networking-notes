@@ -1,7 +1,3 @@
----
-theme: thg-accelerator
----
-
 # mTLS
 
 ### Domain Name Service and How Things Work

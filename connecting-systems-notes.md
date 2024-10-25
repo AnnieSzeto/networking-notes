@@ -1,7 +1,3 @@
----
-theme: thg-accelerator
----
-
 # Request/Response
 
 Request-response model, used in network protocols and systems where clients and servers interact to exchange information. (used in APIs, network communications, SSH etc.)
