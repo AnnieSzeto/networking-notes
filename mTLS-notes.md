@@ -102,6 +102,6 @@ An example of mTLS usage is Uber. With one of the largest deplyments of Apache K
 
 ### Diagram
 
-link to diagram: https://excalidraw.com/#json=TmgSFFjVUXkPZCOvuv1Bx,z37ScC45xNM3GwK-_oUxhw
+![image](./TLS%20and%20mTLS%20Handshake.png)
 
-Also exported image in folder
+link to excalidraw: https://excalidraw.com/#json=TmgSFFjVUXkPZCOvuv1Bx,z37ScC45xNM3GwK-_oUxhw
